@@ -27,4 +27,6 @@ For good team work, we need:
 3. *Listen each other*
 
 
-[!()](https://storage.googleapis.com/smartphoto-express-production-wp-blogs-com/9/2017/08/comment-creer-un-album-photo-gif-chat-etonne.gif)
+![](https://storage.googleapis.com/smartphoto-express-production-wp-blogs-com/9/2017/08/comment-creer-un-album-photo-gif-chat-etonne.gif)
+
+fix 
